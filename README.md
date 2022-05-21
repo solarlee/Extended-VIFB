@@ -10,8 +10,8 @@ For more details, please refer to the following paper:
 
 **李一，李阳，苗壮*，王家宝，张睿. 一种扩展VIFB的红外与可见光图像融合基准.  计算机工程与科学. 2022.**  
 
-Contact: Yang Li.solarleeon@outlook.com  
-[[Download paper](https://arxiv.org/abs/2002.03322)]
+Contact: Yang Li. [solarleeon@outlook.com]  
+[[Download paper](https://github.com/solarlee/Extended-VIFB)]
 
 We really hope this benchmark can contribute to the development of image fusion field. 
 
